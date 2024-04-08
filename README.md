@@ -3,7 +3,7 @@ Aplicação desenvolvida no NLW Unite da Rocketseat na trilha HTML+CSS+JS.
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=F48F56&labelColor=00292E">
+  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
 </p>
 
 
